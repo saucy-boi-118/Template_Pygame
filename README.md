@@ -9,3 +9,7 @@ Then run this command to install the requirements into your project
 ```
 pip install -r requirements.txt
 ```
+Heres how to create a virtual environment if needed
+```
+python -m venv venv
+```
